@@ -1,10 +1,5 @@
-# Arquivo com constantes
-# Arquivo com constantes
-# Para revisores: adicionado por estudantes no S7
 
-
-# A URL é substituída pela URL do servidor gerada pela plataforma
-URBAN_ROUTES_URL = 'https://cnt-dc0792fa-ff76-4dfc-ae38-1a6225f8fada.containerhub.tripleten-services.com?lng=pt'
+URBAN_ROUTES_URL = 'https://cnt-dfadcb00-8b6a-4c08-99ae-68d2c541af3a.containerhub.tripleten-services.com?lng=pt'
 ADDRESS_FROM = 'East 2nd Street, 601'
 ADDRESS_TO = '1300 1st St'
 PHONE_NUMBER = '+1 123 123 12 12'
